@@ -44,7 +44,7 @@ namespace Instagram.Data.Repositories
         public Task SaveChanges()
             => _context.SaveChangesAsync();
 
-        public async Task<TSource> Update(TSource entity)
+        public TSource UpdateAsync(TSource entity)
         {
             var updatecontext = _dbSet.Update(entity);
 
@@ -55,7 +55,16 @@ namespace Instagram.Data.Repositories
 
         async Task<bool> IGenericRepository<TSource>.DeleteAsync(Expression<Func<TSource, bool>> expression)
         {
+            var exist = await _dbSet.FirstOrDefaultAsync(expression);
 
+            if (exist == null)
+                return false;
+
+            _dbSet.Remove(exist);
+
+            await _context.SaveChangesAsync();
+
+            return true;
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\bin\Debug\net6.0\Instagram.Domain.deps.json
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\bin\Debug\net6.0\Instagram.Domain.dll
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\bin\Debug\net6.0\Instagram.Domain.pdb
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.csproj.AssemblyReference.cache
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.AssemblyInfoInputs.cache
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.AssemblyInfo.cs
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.dll
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\refint\Instagram.Domain.dll
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\Instagram.Domain.pdb
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Domain\obj\Debug\net6.0\ref\Instagram.Domain.dll

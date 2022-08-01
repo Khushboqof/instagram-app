@@ -1,0 +1,12 @@
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\bin\Debug\net6.0\Instagram.Service.deps.json
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\bin\Debug\net6.0\Instagram.Service.dll
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\bin\Debug\net6.0\Instagram.Service.pdb
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.csproj.AssemblyReference.cache
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.AssemblyInfoInputs.cache
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.AssemblyInfo.cs
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.csproj.CoreCompileInputs.cache
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.dll
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\refint\Instagram.Service.dll
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\Instagram.Service.pdb
+C:\Users\Elbek\source\repos\InstagramApp\Instagram.Service\obj\Debug\net6.0\ref\Instagram.Service.dll

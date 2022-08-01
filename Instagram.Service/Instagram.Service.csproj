@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\CommentDTOs\" />
+    <Folder Include="DTOs\LikeDTOs\" />
+    <Folder Include="DTOs\PostDTOs\" />
+    <Folder Include="DTOs\SavedPostDTOs\" />
+    <Folder Include="DTOs\UserDTOs\" />
+    <Folder Include="DTOs\UserFollowingDTOs\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

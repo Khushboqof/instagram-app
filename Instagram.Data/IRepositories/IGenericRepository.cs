@@ -11,7 +11,7 @@ namespace Instagram.Data.IRepositories
         where TSource : class
     {
         Task<TSource> CreateAsync(TSource entity);
-        Task<TSource> UpdateAsync(TSource entity);
+        TSource UpdateAsync(TSource entity);
         Task<TSource> GetAsync(Expression<Func<TSource, bool>> expression);
         Task<bool> DeleteAsync(Expression<Func<TSource, bool>> expression);
         IQueryable<TSource> GetAll(Expression<Func<TSource, bool>> expression = null);
