@@ -7,15 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\CommentDTOs\" />
-    <Folder Include="DTOs\LikeDTOs\" />
-    <Folder Include="DTOs\PostDTOs\" />
-    <Folder Include="DTOs\SavedPostDTOs\" />
-    <Folder Include="DTOs\UserDTOs\" />
-    <Folder Include="DTOs\UserFollowingDTOs\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Mappers\" />
-    <Folder Include="Services\" />
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Instagram.Domain\Instagram.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
   </ItemGroup>
 
 </Project>

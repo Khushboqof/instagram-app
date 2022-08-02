@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "Dg2+udfOkb2NdsfEq5MrVNzxNNY1G3soMUrxpLsTGVJI4LI/Vi3V26QdiCYXmjhzms8N4OzIzVymH/3tzqDSeg==",
+  "dgSpecHash": "xi2O/3WWJ2mTPdRvWu+Y6jcRfPWmGuAFyCcPGivc/5RaBUamWzJpZX4GUJqJlDWD9UTvWCS9MC+Utb7rbPd5jA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elbek\\source\\repos\\InstagramApp\\Instagram.Service\\Instagram.Service.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Elbek\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Elbek\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\Elbek\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
